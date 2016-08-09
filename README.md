@@ -3,16 +3,18 @@ Slackbot displays users time spent active on slack
 
 # use
 
-clone this repository
+**clone** this repository
 
-cd activeTimeSlack
+**cd** activeTimeSlack
 
-npm i
+**npm i**
 
-add your BOT_API_KEY to run.sh file
+add your **BOT_API_KEY** to run.sh file
 
 start your server **sh run.sh**
 
-enter your bots chat in slack
+enter the new **bot chat** on Slack
 
-type "activity" to see how much time you've spent on slack per session.
+create new message **"activity"**
+
+in **terminal** displays current **session time** on Slack
