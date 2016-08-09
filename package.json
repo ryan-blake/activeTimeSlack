@@ -1,0 +1,15 @@
+{
+  "name": "timebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/bot.js",
+    "test": "bin/bot.js lib/simplebot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.2"
+  }
+}
